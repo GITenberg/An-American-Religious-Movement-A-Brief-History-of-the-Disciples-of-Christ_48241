@@ -1,4 +1,8 @@
 _repo: An-American-Religious-Movement-A-Brief-History-of-the-Disciples-of-Christ_48241
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48241-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrison, Winfred Ernest
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44695'
     url: http://www.gutenberg.org/2009/agents/44695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48241#An-American-Religious-Movement-A-Brief-History-of-the-Disciples-of-Christ
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
